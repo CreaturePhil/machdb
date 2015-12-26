@@ -1,4 +1,4 @@
-# MachDB
+# MachDB [![Build Status](https://travis-ci.org/CreaturePhil/machdb.svg)](https://travis-ci.org/CreaturePhil/machdb) [![Dependency Status](https://david-dm.org/CreaturePhil/machdb.svg)](https://david-dm.org/CreaturePhil/machdb) [![devDependency Status](https://david-dm.org/CreaturePhil/machdb/dev-status.svg)](https://david-dm.org/CreaturePhil/machdb#info=devDependencies)
 
 > Quick and easy to use database.
 
